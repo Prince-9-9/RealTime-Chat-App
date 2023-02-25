@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Prince Kumar",
   "license": "MIT",
   "dependencies": {
     "@socket.io/redis-adapter": "^7.1.0",
