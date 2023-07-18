@@ -17,7 +17,7 @@ This is a Realtime Chat App built using Node.js, Express, and Socket.io. The app
 
 ## Features
 
-- Realtime communication: Messages are instantly delivered to all participants in the same room.
+- Real-time communication: Messages are instantly delivered to all participants in the same room.
 - Multiple Rooms: Users can join specific rooms to have separate discussions.
 - User Nicknames: Users can set their nicknames, making it easy to identify participants in the chat.
 - User Join/Leave Notifications: The app notifies other participants when someone joins or leaves a room.
